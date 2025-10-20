@@ -1,0 +1,1 @@
+# Preparazione-alla-verifica-su-vettori
