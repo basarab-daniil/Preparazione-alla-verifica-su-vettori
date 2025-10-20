@@ -7,6 +7,7 @@ import { Component, Input} from '@angular/core';
   styleUrl: './macchina.css'
 })
 export class Macchina{
+  pezzi: string[]=['viti','chiodi','bulloni']
   @Input() macchina!: string;
   constructor() {
   }
